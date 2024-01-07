@@ -3,6 +3,7 @@ dados/*
 !dados/.gitkeep
 !dados/desmatamento_ago22.gpkg
 !dados/desmatamento_set22.gpkg
+!dados/populacao-pib-municipios-mg.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
