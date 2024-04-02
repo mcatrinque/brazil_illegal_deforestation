@@ -1,11 +1,3 @@
-<p align="center">
-  <br>
-  <img alt="TerraQ logo" width="150" src="https://sigma01.nyc3.digitaloceanspaces.com/terraq/assets/images/logo/logo.png"/>
-  <br>
-</p>
- 
-Repositório contendo as instruções do processo seletivo para Cientista de Dados na TerraQ em Jan/24.
-
 # Descrição e objetivos
 
 Este teste foi criado para avaliar suas habilidades e criatividade no manejo de dados geoespaciais, na aplicação de técnicas de ciência de dados e na produção de visualizações que possam gerar insights valiosos.
